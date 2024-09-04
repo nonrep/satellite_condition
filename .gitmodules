@@ -1,0 +1,6 @@
+[submodule "configmanager"]
+	path = configmanager
+	url = http://git.virtlabs.ru/root/configmanager.git
+[submodule "logger"]
+	path = logger
+	url = http://git.virtlabs.ru/root/logger.git
