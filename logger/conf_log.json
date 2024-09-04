@@ -1,0 +1,5 @@
+{
+	"format": "[%TimeStamp%][%Channel%][%Severity%][%TagString%]:  %Message%",
+	"rotation_size": "100",
+	"max_files": "100"
+}
